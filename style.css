@@ -21,7 +21,7 @@
 .welcomebar {
     height:100px;
     width:1400px;
-    font-size:  90px;
+    font-size:  7vw;
     display: flex;
     align-items: center;
     justify-content: center;
