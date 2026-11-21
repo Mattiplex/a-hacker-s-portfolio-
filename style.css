@@ -1,5 +1,5 @@
 @font-face {
-    font-family: lcdfont;
+    font-family: 'lcdfont';
     src: url(seven_segment.ttf);
 }
 
@@ -32,5 +32,5 @@
 .scramble {
   color:rgba(255,92,0);
  text-shadow: 2px 2px 4px rgba(255,92,0);
- font-family:lcdfont;
+ font-family:'lcdfont';
 }
