@@ -1,0 +1,35 @@
+@font-face {
+    font-family: lcdfont;
+    src: url(seven_segment.otf);
+}
+
+.portfolioBcg {
+    background-color: black;
+    overflow:scroll;
+}
+
+.text {
+    color:rgba(255,92,0);
+    text-shadow: 2px 2px 4px rgba(255,92,0);
+}
+
+.text_box {
+ color:rgba(255,92,0);
+ text-shadow: 2px 2px 4px rgba(255,92,0);
+}
+
+.welcomebar {
+    height:100px;
+    width:1400px;
+    font-size:  90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+.scramble {
+  color:rgba(255,92,0);
+ text-shadow: 2px 2px 4px rgba(255,92,0);
+}
