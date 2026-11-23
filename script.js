@@ -23,7 +23,7 @@ function scrambleText(element) {
         }
 
         iteration += 0.5;
-},30);
+},70);
 }
 
 window.addEventListener("DOMContentLoaded",()=> {
