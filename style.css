@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'lcdfont';
-    src: url("sevensegment.ttf");
+    src: url(sevensegment.ttf);
 }
 
 .portfolioBcg {
@@ -19,17 +19,28 @@
 }
 
 .welcomebar {
-    height:100px;
-    width:1400px;
     font-size:  7vw;
     display: flex;
     align-items: center;
     justify-content: center;
-    
-    
+    background-color: rgba(255,92,0,0.75);
+}
+
+.introduction {
+    display:flex;
+    position: relative;
+    justify-content:left;
+    background-color:greenyellow;
+    font-size:1.5vw;
 }
 
 .scramble {
+  color:rgba(255,92,0);
+ text-shadow: 2px 2px 4px rgba(255,92,0);
+ font-family:'lcdfont';
+}
+
+.scramble1 {
   color:rgba(255,92,0);
  text-shadow: 2px 2px 4px rgba(255,92,0);
  font-family:'lcdfont';
