@@ -1,6 +1,6 @@
 @font-face {
-    font-family: lcdfont;
-    src: url(SevenSegment.ttf);
+    font-family:lcdfont;
+    src: url(digital-7.ttf);
 }
 
 .portfolioBcg {
@@ -43,5 +43,5 @@
 .scramble1 {
   color:rgba(255,92,0);
  text-shadow: 2px 2px 4px rgba(255,92,0);
- font-family:'lcdfont';
+ font-family:lcdfont;
 }
