@@ -23,7 +23,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgba(255,92,0,0.75);
 }
 
 .introduction {
@@ -33,7 +32,6 @@
     align-items:flex-start;
     justify-content:left;
     flex-flow: column nowrap;
-    background-color:greenyellow;
     font-size:2vw;
 }
 
