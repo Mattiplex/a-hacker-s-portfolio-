@@ -55,8 +55,8 @@ function scrambleText(element) {
             clearInterval(element.scrambleInterval);
         }
 
-        iteration += 0.7;
-},30);
+        iteration += 0.5;
+},20);
 }
 
 window.addEventListener("DOMContentLoaded",()=> {
